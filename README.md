@@ -1,17 +1,15 @@
-# flutter_card
+# Flutter eWaller
 
 Simple eWallet UI implementation.
 Design by: Rašida Medar (https://www.behance.net/raidaribi1)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<img width="376" alt="Screenshot 2021-03-24 at 23 24 45" src="https://user-images.githubusercontent.com/23072261/112526169-eec3ea00-8da1-11eb-84f7-08dc5e1ddceb.png">
 
-A few resources to get you started if this is your first Flutter project:
+# Video:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/23072261/112526533-567a3500-8da2-11eb-87f5-1960270bbf4c.gif
+https://user-images.githubusercontent.com/23072261/112526179-f2577100-8da1-11eb-9d9c-36df61106669.mov
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
