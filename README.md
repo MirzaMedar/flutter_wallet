@@ -1,7 +1,7 @@
 # Flutter eWaller
 
 Simple eWallet UI implementation.
-Design by: Rašida Medar (https://www.behance.net/raidaribi1)
+Design by: Rašida Medar (https://www.behance.net/rasidamedar)
 
 ## Getting Started
 
