@@ -1,6 +1,7 @@
 # flutter_card
 
-A new Flutter project.
+Simple eWallet UI implementation.
+Design by: Rašida Medar (https://www.behance.net/raidaribi1)
 
 ## Getting Started
 
